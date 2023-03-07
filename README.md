@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fares-x96
+- 👋 Hi, I’m @MugiwaraMystic
 - 👀 I’m interested in coding lol and Anime ofc
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with people learning Java 
